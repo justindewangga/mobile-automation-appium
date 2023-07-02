@@ -1,0 +1,14 @@
+{
+  "name": "mobile-automation-appium",
+  "version": "1.0.0",
+  "description": "mobile-automation",
+  "main": "index.js",
+  "scripts": {
+    "dev": "appium --address 127.0.0.1 --port 4723"
+  },
+  "author": "justindewangga",
+  "license": "ISC",
+  "devDependencies": {
+    "webdriverio": "^8.11.2"
+  }
+}
